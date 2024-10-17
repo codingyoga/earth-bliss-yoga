@@ -4,7 +4,7 @@ This repository contains the website for Earth Bliss Yoga, a yoga studio in Ooty
 
 ## About
 
-This website was created by [Your Name] as a project to help a friend promote their yoga classes. It's a simple, single-page site designed to showcase the yoga offerings and provide contact information.
+A project to help a friend promote their yoga classes. It's a simple, single-page site designed to showcase the yoga offerings and provide contact information.
 
 ## Technologies Used
 
